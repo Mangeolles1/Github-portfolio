@@ -5,3 +5,7 @@ Project1 part 1 :Wealth of nations
 *In excel I was able to update data, filter information, and create charts 
 
 [Project 1 part 2: Wealth of nations](https://public.tableau.com/app/profile/amanda.mangeolles/viz/Wealthofnations-complete/Dashboard1?publish=yes) 
+
+Power Bi Dashboard
+![image](https://github.com/Mangeolles1/Github-portfolio/assets/169667075/f5dcd0d0-7de3-4aa9-b8d0-53aece5652c8)
+
