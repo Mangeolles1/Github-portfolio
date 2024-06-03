@@ -17,7 +17,8 @@ Project 1 part 1 : Wealth of nations
 
 
 
-![image](https://github.com/Mangeolles1/Github-portfolio/assets/169667075/b4f9526a-39f4-4b7f-9755-7c7f19bf3817)
+![image](https://github.com/Mangeolles1/Github-portfolio/assets/169667075/9c055b78-63a9-497a-9005-9f0d5c6b6afb)
+
 
 
 This is an overview of tableau visualisations
