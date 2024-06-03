@@ -20,13 +20,15 @@ Project 1 part 1 : Wealth of nations
 ![image](https://github.com/Mangeolles1/Github-portfolio/assets/169667075/b4f9526a-39f4-4b7f-9755-7c7f19bf3817)
 
 
+This is an overview of tableau visualisations
+![image](https://github.com/Mangeolles1/Github-portfolio/assets/169667075/73cdb17f-6961-4440-8296-b47c7d68d64f)
 
 
 
 
-:clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: 
 
-![image](https://github.com/Mangeolles1/Github-portfolio/assets/169667075/7d23675c-5ae6-4932-bc98-c34094617f44)
+![image](https://github.com/Mangeolles1/Github-portfolio/assets/169667075/dfc0fc98-5512-45a3-b14d-c694910b59a8)
+
 uploaded data, created relationships, drag and dropped the pills, selected the show me to select visualisation style, created the colour palette and saved to dashboard
 
 
