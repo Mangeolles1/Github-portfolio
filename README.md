@@ -1,6 +1,6 @@
 # Github-portfolio
 ## Data analytics portfolio the story so far .....
-### My First Introduction to data visualisation, using Excel charts, Tableau and PowerBi
+### My initial introduction to data visualisation, using Excel charts, Tableau and PowerBi
 
 Project 1 part 1 : Wealth of nations
 
